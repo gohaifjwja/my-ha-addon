@@ -15,7 +15,7 @@ Path to the directory used for download storage. Default to `/share/aria2`
 
 ### secret (str)
 
-Secret for rpc connection. Default to `123456789`
+Secret for rpc connection. Default to `111111`
 
 ### options (list of dict)
 

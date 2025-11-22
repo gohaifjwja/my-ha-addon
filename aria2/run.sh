@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-secret=$(jq -r '.secret // "123456789"' /data/options.json)
+secret=$(jq -r '.secret // "111111"' /data/options.json)
 downloads=$(jq -r '.downloads // "/share/aria2/"' /data/options.json)
 options=$(jq -r 'if .options then [.options[] | "--"+.name+"="+.value ] | join(" ") else "" end' /data/options.json)
 session_file=/data/aria.session
