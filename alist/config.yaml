@@ -1,5 +1,5 @@
-name: Alist
-slug: alist
+name: Alist(v3.40.0)
+slug: alist(v3.40.0)
 description: '一个支持多种存储的文件列表程序，由 Gin 和 Solidjs 提供支持'
 url: https://github.com/waxgourd-ha/waxgourd-addons
 version: 3.40.0
