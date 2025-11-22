@@ -2,8 +2,8 @@ name: Alist
 slug: alist
 description: '一个支持多种存储的文件列表程序，由 Gin 和 Solidjs 提供支持'
 url: https://github.com/waxgourd-ha/waxgourd-addons
-version: 3.55.0
-image: wghaos/alist
+version: 3.40.0
+image: wghaos/alist:3.40.0
 arch:
   - aarch64
   - amd64
