@@ -37,4 +37,11 @@ ports_description:
 startup: application
 boot: manual
 map:
-  addons: rw
+  - homeassistant_config: rw
+  - addon_config: rw
+  - ssl: rw
+  - addons: rw
+  - share: rw
+  - media: rw
+  - all_addon_configs: rw
+  - data: rw
