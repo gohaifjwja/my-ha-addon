@@ -7,3 +7,6 @@ AList是一个支持多种存储，支持网页浏览和 WebDAV 的文件列表�
 ## 来源
 
 https://github.com/alist-org/alist
+
+
+share,media
