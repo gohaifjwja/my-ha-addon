@@ -38,3 +38,4 @@ startup: application
 boot: manual
 map:
   - share:rw
+  - media:rw
